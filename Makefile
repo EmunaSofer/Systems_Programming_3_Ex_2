@@ -1,3 +1,4 @@
+##emuna002@gmail.com
 CXX = g++
 CXXFLAGS = -std=c++17 -Wall -Wextra -g
 LDFLAGS_GUI = -lsfml-graphics -lsfml-window -lsfml-system

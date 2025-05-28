@@ -1,3 +1,4 @@
+//emuna002@gmail.com
 #include "Merchant.hpp"
 #include <stdexcept>
 
